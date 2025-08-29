@@ -1,0 +1,65 @@
+Okay, fantastic! Let's follow those steps precisely for the "Infrastructure Modernization and Resilience" topic.
+
+Step 1. Choose a topic
+Topic: Infrastructure Modernization and Resilience (specifically focusing on climate adaptation and cybersecurity)
+Is the topic in my committee’s jurisdiction? Absolutely. This falls under committees like Transportation and Infrastructure, Energy and Commerce, Homeland Security, and Appropriations.
+Would the topic be interesting to discuss and debate? Yes. It involves significant funding, economic impact, public safety, national security, and potentially differing views on federal versus state responsibility, environmental regulations, and private sector involvement.
+Is there a simple, concrete plan of action I could propose relating to this topic? Yes, as outlined in the previous response, focusing on federal standards, grants, and cybersecurity mandates.
+
+Step 2. Read up on your topic
+(Simulated "reading up" based on common knowledge and the previous detailed summary)
+What has already been done on this topic?
+The Bipartisan Infrastructure Law (BIL) or Infrastructure Investment and Jobs Act (IIJA) https://www.congress.gov/bill/117th-congress/house-bill/3684  passed in 2021 already allocated significant federal funding ($1.2 trillion) for infrastructure over five years. It included funds for roads, bridges, public transit, rail, ports, airports, broadband, water, and power grids, with some provisions for climate resilience and cybersecurity.
+CISA (Cybersecurity and Infrastructure Security Agency) already exists to protect critical infrastructure from cyber threats.  https://www.cisa.gov/ 
+Various federal agencies (FEMA, NOAA, EPA) provide guidance and some funding for climate adaptation.
+
+
+What would I change?
+While BIL was a great start, it often provided funding without sufficiently mandating future-proofing against climate change and cybersecurity threats as primary, integrated design principles. My bill would focus on requiring resilience, not just funding repairs.
+Strengthen cybersecurity requirements and funding specifically for existing critical infrastructure, not just new projects.
+Emphasize innovative solutions and private sector engagement more explicitly.
+
+
+What are the different points of view on this topic?
+Pro-investment: Essential for economic competitiveness, public safety, and quality of life. Argue for federal leadership and significant spending.
+Fiscal Conservatives: Concerns about federal spending, national debt, and potential for waste. May prefer state/local leadership or private sector solutions.
+Environmentalists: Advocate for green infrastructure, strong climate resilience mandates, and sustainable materials.
+Industry/Businesses: Seek clarity in regulations, efficient permitting, and potential tax incentives for private investment. Some may resist new mandates if seen as overly burdensome.
+State/Local Governments: Generally welcome federal funding but may be wary of unfunded mandates or overly restrictive federal requirements.
+
+
+
+Step 3. Decide what change you would make
+My policy will be simple, not overly technical, and feasible.
+Core Change: To establish a robust, federally mandated framework for climate-resilient design and enhanced cybersecurity across all critical infrastructure projects and existing systems, backed by dedicated funding and innovative partnerships, going beyond simply repairing what's broken to building for the future.
+
+Step 4. Write the bill
+A Bill to Establish the "National Resilient Infrastructure Act of 2024"
+Short Title: The "National Resilient Infrastructure Act of 2024"
+Purpose and Goals:
+Whereas the infrastructure of the United States, including its roads, bridges, water systems, and power grids, faces unprecedented threats from accelerating climate change, including extreme weather events, and sophisticated cyberattacks;
+Whereas the failure to modernize and secure these vital systems leads to catastrophic economic losses, endangers public safety, degrades quality of life, and undermines national security;
+Whereas existing federal efforts, while commendable, often lack comprehensive, mandatory standards for integrating climate resilience and cybersecurity into all aspects of infrastructure planning, design, and maintenance;
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, that this Act shall establish a proactive national strategy to build and protect a resilient infrastructure system capable of withstanding 21st-century threats.
+
+Section 1: Mandatory Climate Resilience Standards for Federal Infrastructure Investment
+1.1 Establishment of Standards: The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency (EPA) and the Director of the National Oceanic and Atmospheric Administration (NOAA), shall, within 18 months of enactment, develop and implement mandatory climate resilience standards for all new and significantly upgraded infrastructure projects receiving federal funding. These standards shall require project designs to account for localized projections of climate impacts, including but not limited to, sea-level rise, increased frequency and intensity of extreme precipitation, sustained drought conditions, and heat stress.
+1.2 Resilient Design Requirement: All federal agencies providing infrastructure funding shall ensure that recipient entities incorporate resilient design features, such as elevating critical assets, utilizing nature-based solutions (e.g., permeable surfaces, wetlands restoration, mangrove protection), and employing materials robust to projected climate stressors, as a condition of receiving federal funds.
+1.3 Climate Risk Assessments: The Secretary of Transportation shall require all federal infrastructure funding applications to include a comprehensive climate risk assessment, detailing vulnerabilities and proposed mitigation strategies, as part of the application process.
+
+Section 2: Enhanced Cybersecurity for Critical Infrastructure Operations
+2.1 Cybersecurity Protection Mandate: The Director of the Cybersecurity and Infrastructure Security Agency (CISA), in consultation with the Secretary of Energy and relevant sector-specific agencies, shall, within 12 months of enactment, establish and enforce mandatory minimum cybersecurity performance requirements for all critical infrastructure entities (including those in the energy, water, transportation, and healthcare sectors) deemed to be of high-impact risk to national security or public safety. These requirements shall include, but not be limited to, multifactor authentication, encryption, robust network segmentation, and regular vulnerability assessments.
+2.2 Critical Infrastructure Cybersecurity Grant Program: There is hereby established a Critical Infrastructure Cybersecurity Grant Program, administered by CISA, to provide $500,000,000 annually for five fiscal years to state, local, and tribal governments, as well as privately owned critical infrastructure entities, to implement the cybersecurity requirements mandated in this section and to invest in advanced cybersecurity technologies and training.
+2.3 Incident Reporting and Information Sharing: This Act shall amend current law to require mandatory and timely reporting of significant cyber incidents affecting critical infrastructure to CISA, and shall establish a secure, anonymous platform for enhanced threat intelligence sharing between government and critical infrastructure operators, with legal protections for shared information.
+
+Section 3: Workforce Development and Innovation for a Resilient Future
+3.1 Resilient Infrastructure Workforce Grants: The Secretary of Labor, in coordination with the Department of Education, shall establish a grant program to provide $200,000,000 annually for five fiscal years to community colleges, vocational schools, and apprenticeship programs to develop curricula and training programs focused on skills necessary for climate-resilient infrastructure design, construction, maintenance, and cybersecurity for operational technology. Priority shall be given to programs that partner with local labor unions and target underserved communities.
+3.2 Innovation and Pilot Program: The Department of Commerce, in partnership with relevant federal agencies, shall establish a "Resilient Infrastructure Innovation Pilot Program," providing $100,000,000 annually for three fiscal years for competitive grants to state and local governments, universities, and private companies to pilot innovative technologies such as advanced materials for infrastructure, smart grid solutions for grid resilience, artificial intelligence for predictive maintenance, and next-generation cybersecurity defenses for operational technology.
+
+Section 4: Funding and Oversight
+4.1 Funding Mechanism: To ensure dedicated and sustainable funding for the provisions of this Act, the Secretary of the Treasury shall implement a 0.5% surtax on all corporate stock buybacks exceeding $1 million in a single fiscal year. This surtax is projected to generate an average of $2 billion annually, which shall be deposited into a dedicated "National Infrastructure Resilience Fund" to exclusively fund the grant programs and agency initiatives outlined in this Act.
+4.2 Oversight and Accountability: The Government Accountability Office (GAO) shall be directed to conduct a biennial audit and report to Congress on the effectiveness of the programs established under this Act, including an assessment of progress in enhancing infrastructure resilience, cybersecurity posture, and workforce development, along with recommendations for improvement.
+
+Conclusion:
+This "National Resilient Infrastructure Act of 2024" moves beyond simply patching up existing problems. It establishes a forward-looking, mandatory framework to ensure that every dollar invested in our nation's infrastructure contributes to building systems that are inherently resilient to the challenges of climate change and secure against cyber threats. By integrating proactive standards, robust cybersecurity measures, workforce development, and innovative solutions, this bill will safeguard our economic prosperity, protect our communities, and secure our future for generations to come.
+
